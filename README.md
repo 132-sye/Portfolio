@@ -1,45 +1,8 @@
-# Portfolio
 import pygame
 from pygame.locals import *
 import sys
 import time
 import random
-
-#Typing test themed by the 48 laws of power.
-
-##About the book:
-##
-##An outzstanding book that will no doubt remain a classic for a long time.
-##48 Laws of Power details the laws for attaining power in life, business,
-##and more, and gives historical examples of each law in practice, as well as
-##examples of those who do not respect these laws.
-##
-##Feeling powerless is a miserable experience. If given the choice,
-##everyone would opt for more rather than less power. Yet, to be so overt in
-##attempts to gain power is frowned upon. To attain power, you need to be subtle,
-##cunning, and democratic yet devious. Consequently, in his controversial book,
-##“The 48 Laws of Power,” best-selling author Robert Greene argues that if
-##you manage to seduce, charm, and deceive your opponents, you will attain the
-##ultimate power.
-##
-##To put it into simpler terms, the 48 laws of power is about manipulation, and
-##is a book written by a sociopath for sociopaths.
-##
-##However, knowing about the 48 laws of power can be useful in your everyday
-##life. It is possible to apply them without being psychotic. 
-##
-##While you, may not enjoy manipulating the people around you, many others cannot
-##say the same for themselves. The 48 laws of power can also be a very useful
-##self defence weapon and could be used as a "red flag" list when around people
-##you are getting to know. If you can observe them applying any of these laws,
-##you will know that it would be a good idea to stop talking to them.
-##
-##To learn more about the 48 laws of power, use the link below to read more about
-##each rule in better detail.
-##
-##https://www.oberlo.ca/blog/48-laws-of-power-robert-greene-summary#:~:text=
-## Consequently%2C%20in%20his%20controversial%20book,and%20person%20you%20will%
-## 20become.
     
 class Game:
    
